@@ -16,6 +16,7 @@ variables, to use!
 
 Open up `lib/catch_phrases.rb`. You should see the following method:
 
+
 ```ruby
 def mario
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
